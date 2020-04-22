@@ -1,5 +1,6 @@
 ## React Native - Mobile Flashcards app
 Basic Flashcards app for self-testing
+(Original repo with commit history located here: https://github.com/ClareBee/udacity/tree/master/mobile_flashcards)
 
 - Made using Expo v.37 (as create-react-native-app now deprecated)
 
